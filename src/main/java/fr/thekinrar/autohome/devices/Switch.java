@@ -29,8 +29,8 @@ public class Switch extends Device {
     public enum Action {
         ON,
         OFF,
-        BRIGHTNESS_UP,
-        BRIGHTNESS_DOWN,
+        BRIGHTNESS_MOVE_UP,
+        BRIGHTNESS_MOVE_DOWN,
         BRIGHTNESS_STOP
     }
 
