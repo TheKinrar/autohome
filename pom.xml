@@ -30,4 +30,11 @@
             <version>2.9.0</version>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>kinrar</id>
+            <url>https://git.kinrar.io/api/v4/projects/55/packages/maven</url>
+        </repository>
+    </distributionManagement>
 </project>
